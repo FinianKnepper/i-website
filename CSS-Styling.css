@@ -11,12 +11,20 @@ body {
 h1 {
   margin: 1em auto;
   padding: 20px;
+  padding-left: 30px;
 }
 
-fieldset {
-  border: none;
-  padding: 2rem 0;
-  border-bottom: 3px solid #3b3b4f;
-  padding: 40px;
+h3 {
+  margin: 1em auto;
+  padding: 10px;
+  padding-left:60px;
 }
+
+p {
+  padding: 10px;
+  padding-left: 70px;
+}
+
+
+
 
