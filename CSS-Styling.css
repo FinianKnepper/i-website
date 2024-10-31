@@ -9,21 +9,15 @@ body {
 }
 
 h1 {
-  margin: 1em auto;
-  padding: 10vh;
-  padding-left: 30vh;
+  margin-left: 10px;
+  padding: 10px;
 }
 
-h3 {
-  margin: 1em auto;
-  padding: 10vh;
-  padding-left: 60vh;
+h3, p {
+  margin-left: 30px;
+  padding: 10px;
 }
 
-p {
-  padding: 10vh;
-  padding-left: 70vh;
-}
 
 
 
